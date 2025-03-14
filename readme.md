@@ -2323,7 +2323,7 @@
                 <tr>
                     <!-- LINKED IN -->
                     <td>
-                        <a href="www.linkedin.com/in/mohamed-ikhlef-a16675321">
+                        <a href="https://www.linkedin.com/in/mohamed-ikhlef-a16675321/">
                         <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
